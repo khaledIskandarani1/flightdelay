@@ -2,5 +2,5 @@
 *.R
 
 # Ignore the entire R programming directory
-*/R programming/
+R programming/
 
