@@ -1,0 +1,6 @@
+# Ignore all R script files
+*.R
+
+# Ignore the entire R programming directory
+R programming/
+
