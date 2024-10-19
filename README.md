@@ -9,10 +9,10 @@ Airport arrival performance and other events are affected by weather, which may 
 * Airport Operations: DCA has a lot of flights, which could cause delays. Checking the delays at this airport might help understand any problems.
 * Weather Impact: There are not many delayed flights because of weather, so other reasons might be causing the delays.
   * Traffic Patterns: The day of the week and time of day may affect delays. Afternoons have more flights, which could lead to more delays.
-  * 	Weather-Related Delays:
+    # Weather-Related Delays:
 - Long Delays (more than 1 hour): 53% of weather delays last over an hour. This shows that when weather causes a delay, it’s often serious.
 -	Short Delays (up to 30 minutes): Only 37.5% of weather delays are short, meaning most weather delays are longer.
-*	Non-Weather-Related Delays:
+# Non-Weather-Related Delays:
 -	Short Delays (up to 30 minutes): Almost 59% of non-weather delays are short, which means most of these delays aren’t too long.
 -	Long Delays (more than 1 hour): Around 29% of non-weather delays are long, much lower than for weather-related delays.
   # Weather tends to cause longer delays, while most non-weather delays are short and under 30 minutes.
